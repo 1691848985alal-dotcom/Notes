@@ -5,26 +5,33 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
+    {
+      "query": "path:C语言/指针  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
     {
       "query": "",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 14725458
       }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -0.7,
-  "nodeSizeMultiplier": 1.20744949494949,
-  "lineSizeMultiplier": 0.316540404040404,
+  "nodeSizeMultiplier": 1.45492424242424,
+  "lineSizeMultiplier": 1.67765151515152,
   "collapse-forces": false,
-  "centerStrength": 0.337121212121212,
-  "repelStrength": 10.5289338418173,
-  "linkStrength": 0,
-  "linkDistance": 302,
-  "scale": 0.6316046762907404,
+  "centerStrength": 0.190656565656566,
+  "repelStrength": 9.26767676767677,
+  "linkStrength": 0.58459595959596,
+  "linkDistance": 150,
+  "scale": 0.8854989543150272,
   "close": false
 }
