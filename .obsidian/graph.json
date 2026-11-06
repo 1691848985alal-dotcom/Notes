@@ -15,17 +15,10 @@
       }
     },
     {
-      "query": "path:C语言  ",
+      "query": "path:C语言/题目案例  ",
       "color": {
         "a": 1,
-        "rgb": 5203330
-      }
-    },
-    {
-      "query": "",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
+        "rgb": 12577893
       }
     }
   ],
@@ -39,6 +32,6 @@
   "repelStrength": 9.26767676767677,
   "linkStrength": 0.58459595959596,
   "linkDistance": 150,
-  "scale": 0.885498954315025,
+  "scale": 0.1634837056722043,
   "close": false
 }
